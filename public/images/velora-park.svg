@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#dce8e7"/>
+  <path d="M0 274h640v86H0z" fill="#82966f"/>
+  <path d="M150 158h300v142H150z" fill="#eee9dc"/>
+  <path d="m130 166 170-96 170 96-12 21-158-89-158 89z" fill="#4a5852"/>
+  <path d="M190 195h64v55h-64zm92 0h64v55h-64zm-92 72h64v33h-64zm92 0h64v33h-64z" fill="#7fa1a4"/>
+  <circle cx="500" cy="235" r="34" fill="#71885d"/>
+  <text x="320" y="335" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="24">Velora park</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#dce7dc"/>
+  <circle cx="510" cy="74" r="38" fill="#f1d88f"/>
+  <path d="M0 275h640v85H0z" fill="#78926b"/>
+  <path d="M142 170 270 82l128 88v129H142z" fill="#f0ebdc"/>
+  <path d="M121 177 270 72l149 105-15 20-134-94-134 94z" fill="#53634f"/>
+  <path d="M200 205h48v94h-48zm79 0h48v94h-48z" fill="#84a7a4"/>
+  <path d="M88 225q18-42 36 0v55H88zm400-6q20-48 40 0v60h-40z" fill="#617a55"/>
+  <text x="320" y="335" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="24">Seraya grove</text>
+</svg>
