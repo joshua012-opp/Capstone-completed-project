@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Serenia Real Estate Platform
 
 Serenia is a responsive real-estate website and dashboard prototype built with React, TypeScript, Vite, Tailwind CSS, and React Router. The public pages introduce the communities and collect tour or brochure requests. The dashboard provides a demonstration interface for reviewing requests, monitoring metrics, and managing property types and clusters.
@@ -140,3 +141,7 @@ New requests and property types can change some displayed totals during a demo s
 - Some dashboard destinations and settings remain presentation placeholders.
 - The cluster wizard is an in-memory front-end flow and does not create persisted cluster records yet.
 - Replace storage implementations in `src/services` with backend API calls, then add server-side authentication, validation, and automated integration tests before production use.
+=======
+# Capstone-completed-project
+A Functional real estate webiste a dashbord that allows you add properties and schdule tours
+>>>>>>> origin/main
